@@ -8,13 +8,13 @@ body {
 }
 
 header {
-  background: linear-gradient(135deg, #f9d3e1, #f4a1c2);
+  background: linear-gradient(135deg, #ffe1ec, #ffc2d1);
   color: #fff;
   padding: 60px 20px;
 }
 
 header h1 {
-  font-size: 2.2em;
+  font-size: 2.4em;
   margin-bottom: 10px;
 }
 
@@ -24,7 +24,7 @@ header p {
 
 section {
   padding: 40px 20px;
-  max-width: 800px;
+  max-width: 850px;
   margin: auto;
 }
 
@@ -40,7 +40,7 @@ section {
 }
 
 .cta {
-  background: #ffe6ef;
+  background: #fff0f5;
   border-radius: 15px;
   padding: 40px 20px;
   margin: 40px auto;
@@ -48,17 +48,17 @@ section {
 
 .cta-btn {
   display: inline-block;
-  background: #ff5b99;
+  background: #ff6699;
   color: #fff;
   text-decoration: none;
-  padding: 14px 32px;
+  padding: 14px 36px;
   border-radius: 30px;
   font-weight: bold;
   transition: background 0.3s ease;
 }
 
 .cta-btn:hover {
-  background: #ff2e7b;
+  background: #ff3d7a;
 }
 
 .note {

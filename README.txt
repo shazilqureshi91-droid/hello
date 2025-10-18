@@ -1,11 +1,11 @@
-# Morovan Nail Polish Landing Page
+# MAYCHAO Gel Polish Landing Page
 
-This is a simple, responsive landing page for the **Morovan Quick-Dry Nail Polish Collection**.
+This landing page promotes the **MAYCHAO Gel Polish Starter Kit** with a modern, clean aesthetic.
 
 ## Features
-- Clean, feminine design
-- Quick-loading with responsive layout
-- CTA opens in a new tab
+- Responsive design for desktop and mobile
+- CTA opens affiliate link in a new tab
+- Polished copy targeting young and mid-age women
 - Subtle affiliate disclosure
 
 **Affiliate Note:** This page includes an Amazon affiliate link. The creator may earn a small commission at no extra cost to the buyer.
