@@ -1,16 +1,11 @@
-GELLEN Colors — Landing Page
-Files:
-- index.html : main landing page (no images)
-- styles.css : responsive styling
-- script.js : small interactions
-- README.txt : this file
+# Morovan Nail Polish Landing Page
 
-How to use:
-1. Unzip the package.
-2. Open index.html in your browser.
-3. The CTA buttons open the affiliate link in a new tab.
+This is a simple, responsive landing page for the **Morovan Quick-Dry Nail Polish Collection**.
 
-Affiliate note:
-The CTA link is an affiliate link and may provide a small commission at no extra cost to buyers. Disclosure text is included on the page.
+## Features
+- Clean, feminine design
+- Quick-loading with responsive layout
+- CTA opens in a new tab
+- Subtle affiliate disclosure
 
-Made to be editable and mobile-first.
+**Affiliate Note:** This page includes an Amazon affiliate link. The creator may earn a small commission at no extra cost to the buyer.
