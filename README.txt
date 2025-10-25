@@ -1,11 +1,9 @@
-PRETTYGARDEN Crop Top Landing Page (v2)
+ZAFUL Fall Crop Knitwear Landing Page
+
 Files included:
-- index.html
-- styles.css
-- script.js
-- README.txt
+- index.html — Main landing page with affiliate note and CTA link (opens in new tab).
+- styles.css — Soft fall color theme for cozy, modern vibes.
+- script.js — Logs CTA clicks for analytics.
+- README.txt — This file.
 
-How to use:
-Unzip and open index.html in your browser. CTA buttons open the affiliate link in a new tab.
-
-Affiliate disclosure is included subtly near CTAs and in the footer.
+Affiliate Disclosure: This page includes an Amazon affiliate link. The creator may earn a small commission when users purchase through it, at no extra cost to the buyer.
