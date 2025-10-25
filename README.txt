@@ -1,11 +1,11 @@
-# MAYCHAO Gel Polish Landing Page
+PRETTYGARDEN Crop Top Landing Page (v2)
+Files included:
+- index.html
+- styles.css
+- script.js
+- README.txt
 
-This landing page promotes the **MAYCHAO Gel Polish Starter Kit** with a modern, clean aesthetic.
+How to use:
+Unzip and open index.html in your browser. CTA buttons open the affiliate link in a new tab.
 
-## Features
-- Responsive design for desktop and mobile
-- CTA opens affiliate link in a new tab
-- Polished copy targeting young and mid-age women
-- Subtle affiliate disclosure
-
-**Affiliate Note:** This page includes an Amazon affiliate link. The creator may earn a small commission at no extra cost to the buyer.
+Affiliate disclosure is included subtly near CTAs and in the footer.
