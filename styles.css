@@ -1,68 +1,26 @@
-body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #fffaf6;
-    color: #333;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+:root{
+  --accent:#d86a77;
+  --muted:#6b7280;
+  --bg:#fffaf9;
+  --card:#fff;
+  --max-width:960px;
 }
-
-header {
-    background-color: #ffe5dc;
-    padding: 2rem 1rem;
-    border-bottom: 2px solid #ffbfa8;
-}
-
-h1 {
-    font-size: 2rem;
-    color: #e07156;
-}
-
-.tagline {
-    font-size: 1.1rem;
-    color: #7a4b3b;
-}
-
-.intro, .details, .cta-section {
-    padding: 1.5rem;
-    max-width: 700px;
-    margin: auto;
-}
-
-.cta-btn {
-    background-color: #ff8a65;
-    color: white;
-    padding: 0.8rem 1.5rem;
-    text-decoration: none;
-    border-radius: 30px;
-    font-weight: 600;
-    display: inline-block;
-    transition: all 0.3s ease;
-}
-
-.cta-btn:hover {
-    background-color: #e07156;
-}
-
-.small-note {
-    font-size: 0.8rem;
-    color: #888;
-    margin-top: 0.5rem;
-}
-
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-li::before {
-    content: "✨ ";
-}
-
-footer {
-    background-color: #ffe5dc;
-    padding: 1rem;
-    font-size: 0.9rem;
-    color: #555;
-    border-top: 2px solid #ffbfa8;
-}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,-apple-system,'Segoe UI',Roboto,Arial;background:linear-gradient(180deg,var(--bg),#fff);color:#111;margin:0;-webkit-font-smoothing:antialiased}
+.wrap{max-width:var(--max-width);margin:0 auto;padding:24px}
+.hero{padding:48px 0;border-bottom:1px solid rgba(216,106,119,0.08);text-align:center}
+h1{font-size:26px;margin:0 0 8px;color:var(--accent);font-weight:700}
+.sub{color:var(--muted);margin:0 0 16px}
+.cta-row{margin:12px 0}
+.btn{background:var(--accent);color:#fff;padding:12px 18px;border-radius:12px;text-decoration:none;font-weight:700;display:inline-block}
+.note{color:var(--muted);font-size:13px;margin-top:12px}
+.container{max-width:var(--max-width);margin:24px auto;padding:0 20px}
+.panel{background:var(--card);padding:20px;border-radius:12px;margin:18px 0;border:1px solid rgba(0,0,0,0.03)}
+.features{margin:12px 0;padding-left:18px}
+.features li{margin:8px 0}
+.reviews blockquote{padding:12px;border-left:4px solid rgba(216,106,119,0.12);background:linear-gradient(180deg,#fff,#fffaf8);border-radius:8px;margin:10px 0}
+.tiny{font-size:12px;color:var(--muted)}
+.cta-panel{text-align:center}
+.btn.large{padding:14px 20px;font-size:16px;border-radius:14px;box-shadow:0 10px 30px rgba(216,106,119,0.08)}
+.site-footer{padding:20px 0;text-align:center;color:var(--muted);font-size:13px;border-top:1px solid rgba(0,0,0,0.03)}
+@media (max-width:720px){h1{font-size:20px}}
